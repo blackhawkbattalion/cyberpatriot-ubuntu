@@ -5,9 +5,33 @@ C/LtJG Ian Curran
 .AI
 Brook Point CyberPatriot
 .AB
-This is a test abstract.
 .AE
+.\"
+.\"
+.\"
 .NH 
-Test heading 
-.PP 
-This is a test paragraph
+Kernel Hardening  
+.\"
+.\"
+.\"
+.NH 
+Network Filtering
+.NH 2
+Ingress traffic
+.NH 2
+Egress traffic
+.\"
+.\"
+.\"
+.NH 
+User Settings and Permissions
+.\"
+.\"
+.\"
+.NH 
+Application Security
+.\"
+.\"
+.\"
+.NH
+Auditing
