@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "This script is signed $1"
+echo "This script is signed $* (for real this time)"
 exit 0
