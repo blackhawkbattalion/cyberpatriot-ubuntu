@@ -4,6 +4,9 @@ Cyberpatriot Checklist
 C/LtJG Ian Curran
 .AI
 Brook Point CyberPatriot
+.AB
+This is a test abstract.
+.AE
 .NH 
 Test heading 
 .PP 
