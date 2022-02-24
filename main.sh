@@ -7,3 +7,4 @@ cat /tmp/current_normal_users
 # This is for a test commit from vscode
 echo "I am commited"
 echo 'lets hope this works!'
+echo 'test no. 2 baby'
